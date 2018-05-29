@@ -1,0 +1,23 @@
+{
+  "name": "house-plants",
+  "version": "1.0.0",
+  "description": "a collection of my home plants and how to take care of them",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrlna/house-plants.git"
+  },
+  "keywords": [
+    "plants",
+    "house-plants"
+  ],
+  "author": "Irina Shestak",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lrlna/house-plants/issues"
+  },
+  "homepage": "https://github.com/lrlna/house-plants#readme"
+}
