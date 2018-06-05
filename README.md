@@ -7,7 +7,7 @@ preferred sunlight instructions.
 
 appearance | description
 ---------- | -----------
-<img src="/img/calamondin.jpg" alt="calamondin" style="width: 250px;"/> | **water**: wait until 1.5cm of soil is dry before watering <br><br> **sun**: as much direct sunlight as possible <br><br> **care tips**: fertilize in the winte half strength water soluble fertilizer every 5 weeks <br><br>**pets**: a-ok for pets!
+<img src="/img/calamondin.jpg" alt="calamondin" style="width: 100px;"/> | **water**: wait until 1.5cm of soil is dry before watering <br><br> **sun**: as much direct sunlight as possible <br><br> **care tips**: fertilize in the winte half strength water soluble fertilizer every 5 weeks <br><br>**pets**: a-ok for pets!
 
 ### Philodendron Squamiferum
 
