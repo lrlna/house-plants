@@ -3,7 +3,7 @@
 A growing collection of plants at home. Meant to be a record of watering and
 preferred sunlight instructions.
 
-### Calamondin Tree (Lily :lemon:)
+## Calamondin Tree (Lily :lemon:)
 
 <table>
   <tr>
@@ -24,7 +24,7 @@ preferred sunlight instructions.
   </tr>
 </table>
 
-### Philodendron Squamiferum
+## Philodendron Squamiferum
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ preferred sunlight instructions.
   </tr>
 </table>
 
-### Pilea Peperomioides
+## Pilea Peperomioides
 
 <table>
   <tr>
@@ -67,7 +67,7 @@ preferred sunlight instructions.
 </table>
 
 
-### Silver Pothos, Trebie variation
+## Silver Pothos, Trebie variation
 
 <table>
   <tr>
@@ -88,7 +88,7 @@ preferred sunlight instructions.
   </tr>
 </table>
 
-### Hoya Linearis, the good hair plant :information_desk_person:
+## Hoya Linearis, the good hair plant :information_desk_person:
 
 <table>
   <tr>
@@ -109,7 +109,7 @@ preferred sunlight instructions.
   </tr>
 </table>
 
-### Prayer Plant :pray:, Maranta 
+## Prayer Plant :pray:, Maranta 
 
 <table>
   <tr>
@@ -130,7 +130,7 @@ preferred sunlight instructions.
   </tr>
 </table>
 
-### Monstera :ghost: 
+## Monstera :ghost: 
 
 <table>
   <tr>
@@ -151,7 +151,7 @@ preferred sunlight instructions.
   </tr>
 </table>
 
-### Parlor Palm :palm_tree: 
+## Parlor Palm :palm_tree: 
 
 <table>
   <tr>
