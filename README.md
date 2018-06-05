@@ -5,9 +5,24 @@ preferred sunlight instructions.
 
 ### Calamondin Tree (Lily :lemon:)
 
-appearance | description
----------- | -----------
-<img src="/img/calamondin.jpg" alt="calamondin" width="50%"/> | **water**: wait until 1.5cm of soil is dry before watering <br><br> **sun**: as much direct sunlight as possible <br><br> **care tips**: fertilize in the winte half strength water soluble fertilizer every 5 weeks <br><br>**pets**: a-ok for pets!
+<table>
+  <tr>
+    <th>appearance</th>
+    <th>description</th>
+  </tr>
+  <tr>
+    <td><img src="/img/calamondin.jpg" alt="calamondin" width="50%"/></td>
+    <td>
+      <bold>water:</bold> wait until 1.5cm of soil is dry before watering
+      <br><br>
+      <bold>sun:</bold> as much direct sunlight as possible
+      <br><br>
+      <bold>care tips:</bold> fertilize in the winte half strength water soluble fertilizer every 5 weeks 
+      <br><br>
+      <bold>pets:</bold> a-ok for pets!
+    </td>
+  </tr>
+</table>
 
 ### Philodendron Squamiferum
 
