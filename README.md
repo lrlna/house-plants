@@ -213,7 +213,7 @@ preferred sunlight instructions.
   </tr>
 </table>
 
-## Begonia Maculata Wightii (:small_black_circle: ⚬ Polka Dot ⚬ :small_black_circle:)
+## Begonia Maculata Wightii (:black_circle: ⚬ Polka Dot ⚬ :black_circle:)
 
 <table>
   <tr>
